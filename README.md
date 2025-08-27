@@ -1,11 +1,11 @@
 # hermanosdelpaine_2025
-##Miembro del equipo:
+## Miembro del equipo:
 -Lorenzo Lopez
 -Rayen Ancamilla
 -Francisco Ceballo
 -Esteban Cancino
-##Problematica:
+## Problematica:
 
-##Solución:
+## Solución:
 
-##Tecnologías utilizadas:
+## Tecnologías utilizadas:
