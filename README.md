@@ -1,5 +1,5 @@
 # hermanosdelpaine_2025
-## Miembro del equipo:
+## Miembros del equipo:
 -Lorenzo Lopez
 -Rayen Ancamilla
 -Francisco Ceballo
