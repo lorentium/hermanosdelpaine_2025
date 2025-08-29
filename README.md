@@ -9,3 +9,6 @@ La contaminacion que sufre la ciudad de Temuco a causa de que las personas no bo
 ## Solución:
 Crear una aplicación móvil sencilla e interactiva para niños, que les enseñe la importancia del reciclaje y los guíe en la correcta clasificación de residuos,
 ## Tecnologías utilizadas:
+-**AndroidStudio**
+-**Flutter**
+-**Dart**
